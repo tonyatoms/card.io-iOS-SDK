@@ -1,3 +1,10 @@
+This is a fork of an archived and unsupported project simply to add a Package.manifest so that it might be able to be integrated by way of the Swift Package Manager. I make no claims that it will actually work, or actually work in any given instance.
+
+For the moment, Pull Requests are welcome. 
+
+Thanks!
+Tony Adams
+
 [![card.io logo](https://raw.githubusercontent.com/card-io/card.io-iOS-source/master/Resources/cardio_logo_220.png "card.io")](https://www.card.io)
 
 card.io SDK for iOS
